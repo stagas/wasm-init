@@ -13,6 +13,7 @@
     "module": "ESNext",
     "target": "ESNext",
     "moduleResolution": "bundler",
+    "inlineSources": true,
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true,
     "allowImportingTsExtensions": true,

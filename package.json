@@ -1,7 +1,7 @@
 {
   "name": "@stagas/wasm-init",
   "author": "stagas",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Initialize AssemblyScript WebAssembly modules with sourcemaps and standard imports.",
   "keywords": [
     "assemblyscript",
@@ -36,8 +36,7 @@
     }
   },
   "files": [
-    "dist",
-    "src"
+    "dist"
   ],
   "engines": {
     "node": ">=22"
